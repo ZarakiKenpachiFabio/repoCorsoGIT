@@ -3,7 +3,5 @@ public class User{
     private String cognome;
 
 
-    public User (String nomeutente){
-        this.nomeutente = nomeutente;
-    }
+    
 }
