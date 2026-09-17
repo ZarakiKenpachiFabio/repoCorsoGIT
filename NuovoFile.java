@@ -3,5 +3,7 @@ public class NuovoFile {
     private String b;
 
     private String c;
+    private String d ;
+    
     
 }
