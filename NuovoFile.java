@@ -10,5 +10,8 @@ public class NuovoFile {
 
     private long master1;
     private long master2 ;
+
+
+    private long feature1;
     
 }
