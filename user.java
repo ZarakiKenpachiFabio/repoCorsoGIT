@@ -3,7 +3,6 @@ public class User{
     private String cognome;
 
 
-<<<<<<< HEAD
     public User (String nomeutente){
         this.nomeutente = nomeutente;
     }
@@ -16,7 +15,4 @@ public class User{
     public String metodo2() {
         return "ciaone";
     }
-=======
-    
->>>>>>> nuovoBranch_prova
 }
