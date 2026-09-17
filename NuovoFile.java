@@ -7,4 +7,7 @@ public class NuovoFile {
     
     private int numeroMaster;
     
+
+    private long master1;
+    
 }
