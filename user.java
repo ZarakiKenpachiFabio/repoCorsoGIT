@@ -10,4 +10,9 @@ public class User{
     public String metodo() {
         return "ciao";
     }
+
+
+    public String metodo2() {
+        return "ciaone";
+    }
 }
