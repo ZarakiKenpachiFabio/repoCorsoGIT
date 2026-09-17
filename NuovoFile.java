@@ -5,5 +5,6 @@ public class NuovoFile {
     private String c;
     private String d ;
     
+    private int numeroMaster;
     
 }
