@@ -9,5 +9,6 @@ public class NuovoFile {
     
 
     private long master1;
+    private long master2 ;
     
 }
