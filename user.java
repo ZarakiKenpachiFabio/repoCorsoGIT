@@ -22,4 +22,12 @@ public class User{
      public String metodoVenerdi2(){
         return "ab";
     }
+
+        
+     public String metodoVenerdi3(){
+        return "abc";
+    }
+    public String metodoVenerdi4(){
+        return "abcd";
+    }
 }
