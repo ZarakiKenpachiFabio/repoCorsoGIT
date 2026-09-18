@@ -15,4 +15,11 @@ public class User{
     public String metodo2() {
         return "ciaone";
     }
+
+    public String metodoVenerdi(){
+        return "a";
+    }
+     public String metodoVenerdi2(){
+        return "ab";
+    }
 }
